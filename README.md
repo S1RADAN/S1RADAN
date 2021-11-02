@@ -1,4 +1,5 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Heyy, I'm ByMayFe</h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">S1RADAN</h2>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/487269290400153610)](https://discord.com/users/487269290400153610)
 
 Programing Languages;

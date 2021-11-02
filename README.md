@@ -4,9 +4,9 @@
     <a href="https://discord.com/users/487269290400153610" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/487269290400153610"></a>
 </div>
 
-Programing Languages;
 
 <div align="center">
+<h2>Programing Languages;</h1>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">

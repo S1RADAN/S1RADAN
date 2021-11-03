@@ -1,6 +1,5 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">S1RADAN</h2>
 
-///Discord
 <div align="center">
     <a href="https://discord.com/users/487269290400153610" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/487269290400153610"></a>
 </div>
